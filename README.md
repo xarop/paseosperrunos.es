@@ -1,1 +1,2 @@
 # paseosperrunos.es
+WordPress
